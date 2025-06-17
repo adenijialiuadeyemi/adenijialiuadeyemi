@@ -9,7 +9,7 @@
 - 🧑‍🏫 Passionate about mentoring and empowering tech talents
 - 💬 Ask me about JavaScript, Node.js, Express, TypeScript, Prisma, MongoDB & React
 - 🌱 Constantly learning new technologies and best practices
-- ⚡ Fun Fact: I can debug with a cup of coffee and Afrobeats in the background ☕🎧
+- ⚡ Fun Fact: I can debug with a glass of chilled juice and heart-soothing Qur'an recitation in the background ☕📖🎧
 
 ---
 
