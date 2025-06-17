@@ -16,9 +16,9 @@
 🚀 **Featured Projects**
 | 💼 Project | 🔗 Link | ⚙️ Stack |
 |-----------|---------|----------|
-| 💻 **PortfolioPro** | [View Repo](https://github.com/adenijialiuadeyemi/portfoliopro) | React, Tailwind, Framer Motion |
+| 💻 **PortfolioPro** | [View Repo](https://github.com/adenijialiuadeyemi/portfolio-website) | React, Tailwind, Framer Motion |
 | 🔐 **Ipos API** | [View Repo](https://github.com/adenijialiuadeyemi/ipos-api) | TypeScript, Node.js, Express, Prisma, MongoDB |
-| 🛒 **eCommerce Store** | [View Repo](https://github.com/adenijialiuadeyemi/ecommerce_store) | Express, React, Tailwind, Zustand |
+| 🛒 **eCommerce Store** | [View Repo](https://github.com/adenijialiuadeyemi/ecommerce-store) | Express, React, Tailwind, Zustand |
 | 📝 **SmartBlog** | [View Repo](https://github.com/adenijialiuadeyemi/smartblog) | MERN Stack, Gemini AI, Quill |
 
 ---
