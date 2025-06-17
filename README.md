@@ -1,32 +1,25 @@
-# 👋 Hi, I'm Adeniji Aliu Adeyemi
+# 👋✨ Hey there, I'm **Adeniji Aliu Adeyemi** 🚀💻
 
-**Backend Developer | Node.js • Express • MongoDB • TypeScript**
+🔧 Full-Stack Software Engineer | 🎯 Backend Specialist | 🧠 Tech Mentor | 🌍 Open Source Advocate
 
 ---
 
-## 🔧 Featured Projects
+🌟 **About Me**
+- 🔭 Currently building scalable web apps & APIs
+- 🧑‍🏫 Passionate about mentoring and empowering tech talents
+- 💬 Ask me about JavaScript, Node.js, Express, TypeScript, Prisma, MongoDB & React
+- 🌱 Constantly learning new technologies and best practices
+- ⚡ Fun Fact: I can debug with a cup of coffee and Afrobeats in the background ☕🎧
 
-### 📦 PortfolioPro  
-A sleek backend API powering portfolio websites with robust CRUD operations, authentication, and file uploads.  
-**Tech Stack:** Node.js, Express, MongoDB, JWT, Multer  
-**Highlights:** Form handling, media storage, secure endpoints
+---
 
-### 💼 IPOs‑API  
-A RESTful API delivering live IPO data for fintech platforms.  
-**Tech Stack:** Node.js, Express, PostgreSQL, TypeScript  
-**Highlights:** Data ingestion from external sources, rate limiting, pagination, well-tested endpoints
-
-### 🛒 E‑Commerce_Store  
-Full-featured e-commerce backend with product, cart, and order capabilities.  
-**Tech Stack:** Node.js, Express, MongoDB, Stripe, Prisma  
-**Highlights:** Payments integration, role-based access, inventory management
-
-### 📝 SmartBlog  
-AI-powered blogging platform with Gemini AI integration.  
-**Tech Stack:** Node.js, Express, MongoDB, Gemini AI  
-**Highlights:** Generate blog content on the fly, image uploads, publish/unpublish workflows
-
-*(Make sure all projects have well-written READMEs and are pinned to your profile.)*
+🚀 **Featured Projects**
+| 💼 Project | 🔗 Link | ⚙️ Stack |
+|-----------|---------|----------|
+| 💻 **PortfolioPro** | [View Repo](https://github.com/adenijialiuadeyemi/portfoliopro) | React, Tailwind, Framer Motion |
+| 🔐 **Ipos API** | [View Repo](https://github.com/adenijialiuadeyemi/ipos-api) | Node.js, Express, Prisma, MongoDB |
+| 🛒 **eCommerce Store** | [View Repo](https://github.com/adenijialiuadeyemi/ecommerce_store) | Express, React, Tailwind, Zustand |
+| 📝 **SmartBlog** | [View Repo](https://github.com/adenijialiuadeyemi/smartblog) | MERN Stack, Gemini AI, Quill |
 
 ---
 
@@ -42,7 +35,7 @@ AI-powered blogging platform with Gemini AI integration.
 
 ---
 
-## 📈 GitHub Stats & Languages
+📊 **GitHub Stats**
 
 ![Adeniji's GitHub stats](https://github-readme-stats.vercel.app/api?username=adenijialiuadeyemi&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adenijialiuadeyemi&layout=compact&theme=radical)
@@ -53,7 +46,7 @@ AI-powered blogging platform with Gemini AI integration.
 
 - 📧 Email: adenijialiuadeyemi@gmail.com  
 - 🔗 LinkedIn: [Adeniji Aliu Adeyemi](https://linkedin.com/in/AdenijiAliuAde1)  
-- 🌐 Portfolio: *(Add your portfolio link here)*
+- 🌐 Portfolio: https://adeniji-aliu-porfolio.vercel.app
 
 ---
 
