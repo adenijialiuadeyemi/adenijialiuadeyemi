@@ -5,7 +5,7 @@
 ---
 
 🌟 **About Me**
-- 🔭 Currently building scalable web apps & APIs
+- 🔭 Currently crafting scalable web apps, mobile apps with React Native (Expo), and powerful backend APIs.
 - 🧑‍🏫 Passionate about mentoring and empowering tech talents
 - 💬 Ask me about JavaScript, Node.js, Express, TypeScript, Prisma, MongoDB & React
 - 🌱 Constantly learning new technologies and best practices
